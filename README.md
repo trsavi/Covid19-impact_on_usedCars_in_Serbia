@@ -15,4 +15,9 @@
  - Godina - Year of getting the data
 
 Parameter "Godina" shows when the data was scraped from site polovniautomobili.com 
+
 With this analysis I'm trying to understand the impact that COVID-19 had on used cars market in Serbia through examining the same (almost the same) dataset but just two years apart, from 2019. and one from 2021. The web-craping technique was the same in both cases - scrape first two pages of car ads (with specifications) for each model and save it to csv file, more on this here: [webScraper](https://github.com/trsavi/Polovni-Automobili-Webscraper)
+
+### Dashboard created in Tableau 
+
+
