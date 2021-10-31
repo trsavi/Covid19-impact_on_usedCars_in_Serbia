@@ -20,6 +20,5 @@ With this analysis I'm trying to understand the impact that COVID-19 had on used
 
 ### Dashboard created in Tableau 
 
-(https://user-images.githubusercontent.com/26121130/139594230-1e0bf893-f9c5-4962-8e32-39d33f0737da.png) 
-
+![Dashboard 1](https://user-images.githubusercontent.com/26121130/139594230-1e0bf893-f9c5-4962-8e32-39d33f0737da.png)
 
