@@ -20,4 +20,6 @@ With this analysis I'm trying to understand the impact that COVID-19 had on used
 
 ### Dashboard created in Tableau 
 
+https://github.com/trsavi/Covid19-impact_on_usedCars_in_Serbia/issues/1
+
 
