@@ -18,6 +18,9 @@ Parameter "Godina" shows when the data was scraped from site polovniautomobili.c
 
 With this analysis I'm trying to understand the impact that COVID-19 had on used cars market in Serbia through examining the same (almost the same) dataset but just two years apart, from 2019. and one from 2021. The web-craping technique was the same in both cases - scrape first two pages of car ads (with specifications) for each model and save it to csv file, more on this here: [webScraper](https://github.com/trsavi/Polovni-Automobili-Webscraper). With this sort of data gathering, there shouldn't be more than 60 cars per model per year, so total of max 120 different cars per car model. 
 
+#### Check the [Jupyter Notebook] (https://github.com/trsavi/Covid19-impact_on_usedCars_in_Serbia/blob/main/Analysis%20and%20Visualization.ipynb)
+
+
 
 ### Dashboard created in Tableau 
 
