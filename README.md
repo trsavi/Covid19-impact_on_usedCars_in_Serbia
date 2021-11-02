@@ -20,7 +20,14 @@ With this analysis I'm trying to understand the impact that COVID-19 had on used
 
 #### Check the [Jupyter Notebook](https://github.com/trsavi/Covid19-impact_on_usedCars_in_Serbia/blob/main/Analysis%20and%20Visualization.ipynb)
 
+** Important info for those who do not want to review in detail what I did in Jupyter Notebook **
+ * ** Max car price was limited to 30.000 euros
+ * ** Car mileage was limited between 20.000 - 400.000 km
+ * ** Year of production was limited to greater than 1995.
+ * ** Engine power was limited to 350 BHP.
+ * ** Min cars per model per year of collecting the data >25 cars -> at least 50 cars per model for both years (2019, 2021)
 
+*Keep this in mind because every variation in these factors could result in different results in the end.*
 
 ### Dashboard created in Tableau 
 
